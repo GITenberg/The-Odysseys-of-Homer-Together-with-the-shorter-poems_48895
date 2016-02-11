@@ -1,0 +1,29 @@
+_repo: The-Odysseys-of-Homer-Together-with-the-shorter-poems_48895
+contributor:
+  translator:
+    agent_name: Chapman, George
+    deathdate: 1634
+    gutenberg_agent_id: '9210'
+    url: http://www.gutenberg.org/2009/agents/9210
+creator:
+  author:
+    agent_name: Homer
+    alias: Όμηρος
+    birthdate: -750
+    deathdate: -650
+    gutenberg_agent_id: '705'
+    url: http://www.gutenberg.org/2009/agents/705
+    wikipedia: http://en.wikipedia.org/wiki/Homer
+description: ''
+gutenberg_issued: '2015-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48895'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'The Odysseys of Homer
+
+  Together with the shorter poems'
+url: http://www.gutenberg.org/ebooks/48895
